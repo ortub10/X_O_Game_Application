@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">X_O_Game</string>
+    <string name="x_it_is_your_turn">X it is your turn</string>
+    <string name="it_is_your_turn">it is your turn</string>
+    <string name="you_won">you won</string>
+    <string name="game_over">Game over</string>
+    <string name="drew">Drew</string>
+    <string name="reset">Reset</string>
+</resources>
